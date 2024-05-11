@@ -12,10 +12,6 @@ Habilidades: PHP / SYMFONY / LARAVEL / JS / ANGULAR  / LINUX / AWS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloschininin)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=carloschininin&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=carloschininin)  
-
 #### Languages and Tools:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
